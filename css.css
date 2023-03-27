@@ -1,0 +1,14 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+    background:linear-gradient(rgb(48, 212, 144)0%,rgb(223, 226, 9)100%);
+}
+
+#MyCanvas{
+    border-width:10px;
+    background-color:white;
+border-style:ridge;
+}
